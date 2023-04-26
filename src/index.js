@@ -10,7 +10,7 @@ import './index.scss';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/ITD-React-project">
+      <BrowserRouter basename="/react_bc_48_SolusBlade/">
         <App />
       </BrowserRouter>
     </PersistGate>
