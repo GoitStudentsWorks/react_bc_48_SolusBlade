@@ -2,7 +2,7 @@
   "name": "ITD-React-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SolusBlade.github.io/ITD-React-project/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_bc_48_SolusBlade/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
