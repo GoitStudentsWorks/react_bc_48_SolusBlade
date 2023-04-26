@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_bc_48_SolusBlade/static/css/main.0a358810.css",
-    "main.js": "/react_bc_48_SolusBlade/static/js/main.bd3cf14f.js",
+    "main.js": "/react_bc_48_SolusBlade/static/js/main.bb576344.js",
     "static/css/119.bd8d00b1.chunk.css": "/react_bc_48_SolusBlade/static/css/119.bd8d00b1.chunk.css",
     "static/js/119.8f9d160f.chunk.js": "/react_bc_48_SolusBlade/static/js/119.8f9d160f.chunk.js",
     "static/css/338.fb91a5fd.chunk.css": "/react_bc_48_SolusBlade/static/css/338.fb91a5fd.chunk.css",
@@ -50,7 +50,7 @@
     "static/media/dynamics-planer.png": "/react_bc_48_SolusBlade/static/media/dynamics-planer.4f40508966748d7a90b6.png",
     "index.html": "/react_bc_48_SolusBlade/index.html",
     "main.0a358810.css.map": "/react_bc_48_SolusBlade/static/css/main.0a358810.css.map",
-    "main.bd3cf14f.js.map": "/react_bc_48_SolusBlade/static/js/main.bd3cf14f.js.map",
+    "main.bb576344.js.map": "/react_bc_48_SolusBlade/static/js/main.bb576344.js.map",
     "119.bd8d00b1.chunk.css.map": "/react_bc_48_SolusBlade/static/css/119.bd8d00b1.chunk.css.map",
     "119.8f9d160f.chunk.js.map": "/react_bc_48_SolusBlade/static/js/119.8f9d160f.chunk.js.map",
     "338.fb91a5fd.chunk.css.map": "/react_bc_48_SolusBlade/static/css/338.fb91a5fd.chunk.css.map",
@@ -73,6 +73,6 @@
   },
   "entrypoints": [
     "static/css/main.0a358810.css",
-    "static/js/main.bd3cf14f.js"
+    "static/js/main.bb576344.js"
   ]
 }
